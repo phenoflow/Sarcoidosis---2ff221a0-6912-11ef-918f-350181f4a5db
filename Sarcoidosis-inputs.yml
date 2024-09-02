@@ -1,0 +1,150 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/sarcoidosis---secondary.py
+inputModule3:
+  class: File
+  path: python/granulomatous-sarcoidosis---secondary.py
+inputModule4:
+  class: File
+  path: python/cerebral-sarcoidosis---secondary.py
+inputModule5:
+  class: File
+  path: python/nodular-sarcoidosis---secondary.py
+inputModule6:
+  class: File
+  path: python/papular-sarcoidosis---secondary.py
+inputModule7:
+  class: File
+  path: python/acute-sarcoidosis---secondary.py
+inputModule8:
+  class: File
+  path: python/chronic-sarcoidosis---secondary.py
+inputModule9:
+  class: File
+  path: python/lichenoid-sarcoidosis---secondary.py
+inputModule10:
+  class: File
+  path: python/neurosarcoidosis---secondary.py
+inputModule11:
+  class: File
+  path: python/sarcoidosis-nasal---secondary.py
+inputModule12:
+  class: File
+  path: python/laryngeal-sarcoidosis---secondary.py
+inputModule13:
+  class: File
+  path: python/splenic-sarcoidosis---secondary.py
+inputModule14:
+  class: File
+  path: python/darierroussy-sarcoidosis---secondary.py
+inputModule15:
+  class: File
+  path: python/pulmonary-sarcoidosis---secondary.py
+inputModule16:
+  class: File
+  path: python/sarcoidosis-lymph---secondary.py
+inputModule17:
+  class: File
+  path: python/neuropathy-sarcoidosis---secondary.py
+inputModule18:
+  class: File
+  path: python/myopathy-sarcoidosis---secondary.py
+inputModule19:
+  class: File
+  path: python/sarcoidosis-muscle---secondary.py
+inputModule20:
+  class: File
+  path: python/sarcoidosis-stage---secondary.py
+inputModule21:
+  class: File
+  path: python/hilar-sarcoidosis---secondary.py
+inputModule22:
+  class: File
+  path: python/sarcoidosis-calcification---secondary.py
+inputModule23:
+  class: File
+  path: python/mediastinal-sarcoidosis---secondary.py
+inputModule24:
+  class: File
+  path: python/orofacial-sarcoidosis---secondary.py
+inputModule25:
+  class: File
+  path: python/ocular-sarcoidosis---secondary.py
+inputModule26:
+  class: File
+  path: python/nasopharyngeal-sarcoidosis---secondary.py
+inputModule27:
+  class: File
+  path: python/endobronchial-sarcoidosis---secondary.py
+inputModule28:
+  class: File
+  path: python/sarcoidosis-dactylitis---secondary.py
+inputModule29:
+  class: File
+  path: python/sarcoidosis-gland---secondary.py
+inputModule30:
+  class: File
+  path: python/sarcoidosis-polymyositis---secondary.py
+inputModule31:
+  class: File
+  path: python/sarcoidosis-turbinates---secondary.py
+inputModule32:
+  class: File
+  path: python/plaque-sarcoidosis---secondary.py
+inputModule33:
+  class: File
+  path: python/cutaneous-sarcoidosis---secondary.py
+inputModule34:
+  class: File
+  path: python/sarcoidosis-heerfordt---secondary.py
+inputModule35:
+  class: File
+  path: python/sarcoidosis-pernio---secondary.py
+inputModule36:
+  class: File
+  path: python/angiolupoid-sarcoidosis---secondary.py
+inputModule37:
+  class: File
+  path: python/anular-sarcoidosis---secondary.py
+inputModule38:
+  class: File
+  path: python/hypomelanotic-sarcoidosis---secondary.py
+inputModule39:
+  class: File
+  path: python/nephropathy-sarcoidosis---secondary.py
+inputModule40:
+  class: File
+  path: python/sarcoidosis-ichthyosiform---secondary.py
+inputModule41:
+  class: File
+  path: python/ulcerative-sarcoidosis---secondary.py
+inputModule42:
+  class: File
+  path: python/atrophic-sarcoidosis---secondary.py
+inputModule43:
+  class: File
+  path: python/verrucous-sarcoidosis---secondary.py
+inputModule44:
+  class: File
+  path: python/sarcoidosis-glomerulonephritis---secondary.py
+inputModule45:
+  class: File
+  path: python/erythrodermic-sarcoidosis---secondary.py
+inputModule46:
+  class: File
+  path: python/sarcoidosis-cardiac---secondary.py
+inputModule47:
+  class: File
+  path: python/eyelid-sarcoidosis---secondary.py
+inputModule48:
+  class: File
+  path: python/sarcoidosis-hypertension---secondary.py
+inputModule49:
+  class: File
+  path: python/sarcoidosis-cavity---secondary.py
+inputModule50:
+  class: File
+  path: python/output-cases.py
